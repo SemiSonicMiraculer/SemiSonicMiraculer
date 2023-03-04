@@ -8,3 +8,4 @@ My interests includes programming, yeah. My favorite prog. langs are C/C++ and m
 Well, I'm fan of retro things. Old songs can make me dancing and dreaming. My favorite songs are by Aerosmith, Scorpions, The Beatles and other bands from 80s/90s. Retro games are inspiring me to create something cool and very entertaining. Making the retro style is one of my hobbies.
 
 My website: http://miraculersworld.blogspot.com/
+Escargot MSN Contact: wednescast@escargot.chat
