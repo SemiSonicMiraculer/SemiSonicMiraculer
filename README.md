@@ -1,7 +1,7 @@
 Pronouns - he/his/him.
 Unreal Engine lover, origami lover, Dreamcast fan, Miraculer, Purple Tigress ambassador. The official Semi-Sonic Miraculer GitHub profile.
 
-My creativity tools: Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects, Adobe Audition, FL Studio, Blender 3D, Unreal Engine 5
+My main creativity tools: Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects, FL Studio, Blender 3D, Unreal Engine 5
 
 Languages: C/C++
 
