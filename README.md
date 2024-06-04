@@ -8,17 +8,9 @@ Languages: C/C++
 My media activities:
 
 1. Images
-1.1. Drawing arts
-1.2. Redrawing cosplay
-1.3. Thumbnails
 2. Videos
-2.1. AMVs
 3. Music
-3.1. Synthwave
-3.2. Rock
 4. Modeling
-4.1. Environments
-4.2. Entities
 
 My gaming tools: games, emulators, PC, keyboard, mouse
 
@@ -29,7 +21,3 @@ RAM: 16GB
 Storage disk: 512GB SSD
 Video card: NVIDIA GeForce RTX 3050 (w/ AMD Radeon Graphics)
 OS: Windows 11 Home
-
-
-My website: http://miraculersworld.blogspot.com/
-Linktree: https://linktr.ee/semisonicmiraculer
